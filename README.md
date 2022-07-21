@@ -19,7 +19,7 @@ This is a paper list for pretrained recommend system models. It also contains so
  - Towards Universal Sequence Representation Learning for Recommender Systems , KDD 2022 , [[paper]](https://arxiv.org/pdf/2206.05941.pdf)[[code]](https://github.com/RUCAIBox/UniSRec)
 
 ## User Representation 
-- Sequence to Better Sequence: Continuous Revision of Combinatorial Structures, ICML-2017, [[paper]](http://proceedings.mlr.press/v70/mueller17a.html), [[code]](https://bitbucket.org/jwmueller/sequence-to-better-sequence/)
+- Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation, SIGIR-2020, [[paper]](https://arxiv.org/pdf/2001.04253.pdf), [[code]](https://github.com/fajieyuan/sigir2020_peterrec)
 - Toward Controlled Generation of Text, ICML-2017, [[paper]](https://arxiv.org/pdf/1703.00955), [[official code]](https://github.com/asyml/texar/tree/master/examples/text_style_transfer), [[unofficial code]](https://github.com/GBLin5566/toward-controlled-generation-of-text-pytorch)
 - Style Transfer from Non-Parallel Text by Cross-Alignment, NIPS-2017, [[paper]](https://papers.nips.cc/paper/7259-style-transfer-from-non-parallel-text-by-cross-alignment.pdf), [[code]](https://github.com/shentianxiao/language-style-transfer)
 - Adversarially Regularized Autoencoders, ICML-2018, [[paper]](https://arxiv.org/pdf/1706.04223), [[code]](https://github.com/jakezhaojb/ARAE)
