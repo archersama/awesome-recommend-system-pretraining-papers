@@ -11,7 +11,7 @@ This is a paper list for pretrained recommend system models. It also contains so
 ## Dataset
 
 ## Sequential / Session-Based Recommendation
-- BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer, CIKM 2019 ,  [[paper]](https://arxiv.org/abs/1904.06690)[[code]]()
+- BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer, CIKM 2019 ,  [[paper]](https://arxiv.org/abs/1904.06690)[[code]](https://github.com/FeiSun/BERT4Rec)
 - S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization
 , CIKM-2020 , [[paper]](https://arxiv.org/abs/2008.07873)[[code]](https://github.com/RUCAIBox/CIKM2020-S3Rec)
 - Transformers4Rec: Bridging the Gap between NLP and Sequential / Session-Based Recommendation, Recsys 2021
