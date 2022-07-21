@@ -1,26 +1,23 @@
 # A Paper List for Recommend-system PreTrained Models
 This is a paper list for pretrained recommend system models. It also contains some related research areas.
+
 **Keyword:** *Recommend System, pretrained models*
 
 # Paper List
 
 ## Review
-- Deep Learning for Text Style Transfer: A Survey, arXiv, 2020, [[paper]](https://arxiv.org/pdf/2011.00416.pdf)
-- Text Style Transfer: A Review and Experiment Evaluation, arXiv, 2020, [[paper]](https://arxiv.org/pdf/2010.12742.pdf)
-- A Review of Text Style Transfer using Deep Learning, TAI, 2021, [[paper]](https://arxiv.org/abs/2109.15144)
+- Knowledge Transfer via Pre-training for Recommendation: A Review and Prospect, arXiv, 2020, [[paper]](https://arxiv.org/abs/2009.09226)
 
 ## Dataset
-- Dear Sir or Madam, May I introduce the YAFC Corpus: Corpus, Benchmarks and Metrics for Formality Style Transfer, NAACL-HLT 2018, [[paper]](https://arxiv.org/pdf/1803.06535)
-- A Dataset for Low-Resource Stylized Sequence-to-Sequence Generation, AAAI, 2020, [[paper]](https://www.msra.cn/wp-content/uploads/2020/01/A-Dataset-for-Low-Resource-Stylized-Sequence-to-Sequence-Generation.pdf), [[code]](https://github.com/MarkWuNLP/Data4StylizedS2S)
 
-## Supervised (Parallel Data)
-- Shakespearizing Modern Language Using Copy-Enriched Sequence to Sequence Models, EMNLP-2017 Workshop, [[paper]](https://arxiv.org/pdf/1707.01161)[[code]](https://github.com/harsh19/Shakespearizing-Modern-English)
-- Evaluating prose style transfer with the Bible, 2018, [[paper]](https://arxiv.org/pdf/1711.04731)
-- Harnessing Pre-Trained Neural Networks with Rules for Formality Style Transfer, EMNLP-2019, [[paper]](https://www.aclweb.org/anthology/D19-1365/), [[code]](https://github.com/jimth001/formality_emnlp19)
-- Automatically Neutralizing Subjective Bias in Text, AAAI, 2020, [[paper]](https://nlp.stanford.edu/pubs/pryzant2020bias.pdf)
-- Formality Style Transfer with Shared Latent Space, COLING 2020, [[paper]](https://www.aclweb.org/anthology/2020.coling-main.203.pdf)
+## Sequential / Session-Based Recommendation
+- BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer, CIKM 2019 ,  [[paper]](https://arxiv.org/abs/1904.06690)[[code]]()
+- S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization
+, CIKM-2020 , [[paper]](https://arxiv.org/abs/2008.07873)[[code]](https://github.com/RUCAIBox/CIKM2020-S3Rec)
+- Transformers4Rec: Bridging the Gap between NLP and Sequential / Session-Based Recommendation, Recsys 2021
+ , [[paper]](https://dl.acm.org/doi/abs/10.1145/3460231.3474255?casa_token=b4-oEoLXZycAAAAA:khQBoMBHAS5TXADNUar92RYFH4bq68KSjk3VvD5FDJzazv3jXXfcj_LHdnREjvfUgYj-4dipepKs)[[code]](https://github.com/NVIDIA-Merlin/Transformers4Rec)
 
-## Unsupervised (Non-parallel Data)
+## User Representation 
 - Sequence to Better Sequence: Continuous Revision of Combinatorial Structures, ICML-2017, [[paper]](http://proceedings.mlr.press/v70/mueller17a.html), [[code]](https://bitbucket.org/jwmueller/sequence-to-better-sequence/)
 - Toward Controlled Generation of Text, ICML-2017, [[paper]](https://arxiv.org/pdf/1703.00955), [[official code]](https://github.com/asyml/texar/tree/master/examples/text_style_transfer), [[unofficial code]](https://github.com/GBLin5566/toward-controlled-generation-of-text-pytorch)
 - Style Transfer from Non-Parallel Text by Cross-Alignment, NIPS-2017, [[paper]](https://papers.nips.cc/paper/7259-style-transfer-from-non-parallel-text-by-cross-alignment.pdf), [[code]](https://github.com/shentianxiao/language-style-transfer)
