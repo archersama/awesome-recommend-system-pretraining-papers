@@ -16,6 +16,7 @@ This is a paper list for pretrained recommend system models. It also contains so
 , CIKM-2020 , [[paper]](https://arxiv.org/abs/2008.07873)[[code]](https://github.com/RUCAIBox/CIKM2020-S3Rec)
 - Transformers4Rec: Bridging the Gap between NLP and Sequential / Session-Based Recommendation, Recsys 2021
  , [[paper]](https://dl.acm.org/doi/abs/10.1145/3460231.3474255?casa_token=b4-oEoLXZycAAAAA:khQBoMBHAS5TXADNUar92RYFH4bq68KSjk3VvD5FDJzazv3jXXfcj_LHdnREjvfUgYj-4dipepKs)[[code]](https://github.com/NVIDIA-Merlin/Transformers4Rec)
+ - Towards Universal Sequence Representation Learning for Recommender Systems , KDD 2022 , [[paper]](https://arxiv.org/pdf/2206.05941.pdf)[[code]](https://github.com/RUCAIBox/UniSRec)
 
 ## User Representation 
 - Sequence to Better Sequence: Continuous Revision of Combinatorial Structures, ICML-2017, [[paper]](http://proceedings.mlr.press/v70/mueller17a.html), [[code]](https://bitbucket.org/jwmueller/sequence-to-better-sequence/)
