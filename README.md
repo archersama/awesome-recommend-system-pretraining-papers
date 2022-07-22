@@ -9,7 +9,7 @@ This is a paper list for pretrained recommend system (recommendation) models. It
 - Knowledge Transfer via Pre-training for Recommendation: A Review and Prospect, arXiv, 2020, [[paper]](https://arxiv.org/abs/2009.09226)
 
 ## Dataset
-
+-
 ## Sequential / Session-Based Recommendation
 - BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer, CIKM 2019 ,  [[paper]](https://arxiv.org/abs/1904.06690)[[code]](https://github.com/FeiSun/BERT4Rec)
 - S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization
@@ -30,19 +30,13 @@ This is a paper list for pretrained recommend system (recommendation) models. It
 -
 
 ## Evaluation and Analysis
-- Evaluating Style Transfer for Text, NAACL, 2019, [[paper1]](https://arxiv.org/pdf/1904.02295), [[paper2]](https://dspace.mit.edu/bitstream/handle/1721.1/119569/1076275047-MIT.pdf?sequence=1)
-- Rethinking Text Attribute Transfer: A Lexical Analysis, INLG, 2019, [[paper]](https://arxiv.org/pdf/1909.12335), [[code]](https://github.com/FranxYao/pivot_analysis)
-- Unsupervised Evaluation Metrics and Learning Criteria for Non-Parallel Textual Transfer, EMNLP Workshop on Neural Generation and Translation (WNGT), 2019, [[paper]](https://arxiv.org/pdf/1810.11878)
-- The Daunting Task of Real-World Textual Style Transfer Auto-Evaluation, WNGT, 2019, [[paper]](https://arxiv.org/pdf/1910.03747)
-- Style-transfer and Paraphrase: Looking for a Sensible Semantic Similarity Metric, Arxiv, 2020, [[paper]](https://arxiv.org/pdf/2004.05001.pdf)
-- What is wrong with style transfer for texts? Arxiv, [[paper]](https://arxiv.org/pdf/1808.04365)
-- Style versus Content: A distinction without a (learnable) difference?, COLING 2020,	[[paper]](https://www.aclweb.org/anthology/2020.coling-main.197.pdf)
+-
 
 
 
 
 # Workshop and Tutorial
-
+-
 
 # Copyright 
 By Xiangyang Li (xiangyangli@pku.edu.cn) from Peking University.  
