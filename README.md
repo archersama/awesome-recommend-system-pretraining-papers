@@ -24,7 +24,7 @@ This is a paper list for pretrained recommend system (recommendation) models. It
 
 ## Two Tower Pretraining
 - Self-supervised Learning for Large-scale Item Recommendations , CIKM 2021 , [[paper]](https://dl.acm.org/doi/pdf/10.1145/3459637.3481952)
-- TransRec: Learning Transferable Recommendation from Mixture-of-Modality Feedback , arxiv 2022 , [[paper](https://arxiv.org/abs/2206.06190)
+- TransRec: Learning Transferable Recommendation from Mixture-of-Modality Feedback , arxiv 2022 , [[paper]](https://arxiv.org/abs/2206.06190)
 
 ## Graph Pretraining
 -
