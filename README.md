@@ -25,6 +25,7 @@ This is a paper list for pretrained recommend system (recommendation) models. It
 - UserBERT: Self-supervised User Representation Learning ,  arxiv 2021 , [[paper]](https://arxiv.org/abs/2109.01274)
 - One4all User Representation for Recommender Systems in E-commerce , arxiv 2021 , [[paper]](https://arxiv.org/abs/2106.00573)
 - One Person, One Model, One World: Learning Continual User Representation without Forgetting, SIGIR 2021 , [[paper]](https://arxiv.org/pdf/2001.04253.pdf)
+- Scaling Law for Recommendation Models: Towards General-purpose User Representations , arxiv 2021 , [[paper]](https://arxiv.org/abs/2111.11294)
 
 ## Two Tower Pretraining
 - Self-supervised Learning for Large-scale Item Recommendations , CIKM 2021 , [[paper]](https://dl.acm.org/doi/pdf/10.1145/3459637.3481952)
