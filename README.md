@@ -33,10 +33,6 @@ This is a paper list for pretrained recommend system (recommendation) models. It
 ## Graph Pretraining
 -
 
-## Evaluation and Analysis
--
-
-
 
 
 # Workshop and Tutorial
