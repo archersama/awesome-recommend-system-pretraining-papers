@@ -20,7 +20,9 @@ This is a paper list for pretrained recommend system (recommendation) models. It
 
 ## User Representation Pretraining 
 - Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation, SIGIR 2020 , [[paper]](https://arxiv.org/pdf/2001.04253.pdf), [[code]](https://github.com/fajieyuan/sigir2020_peterrec)
--  - UPRec: User-Aware Pre-training for Recommender Systems ，submitted TKDE in 2021 , [[paper]](https://arxiv.org/abs/2102.10989)
+- UPRec: User-Aware Pre-training for Recommender Systems ，submitted TKDE in 2021 , [[paper]](https://arxiv.org/abs/2102.10989)
+- UserBERT: Self-supervised User Representation Learning ,  arxiv 2021 , [[paper]](https://arxiv.org/abs/2109.01274)
+- One4all User Representation for Recommender Systems in E-commerce , arxiv 2021 , [[paper]](https://arxiv.org/abs/2106.00573)
 - One Person, One Model, One World: Learning Continual User Representation without Forgetting, SIGIR 2021 , [[paper]](https://arxiv.org/pdf/2001.04253.pdf)
 
 ## Two Tower Pretraining
