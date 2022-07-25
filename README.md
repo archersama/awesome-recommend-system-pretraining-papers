@@ -9,7 +9,7 @@ This is a paper list for pretrained recommend system (recommendation) models. It
 - Knowledge Transfer via Pre-training for Recommendation: A Review and Prospect, arXiv, 2020, [[paper]](https://arxiv.org/abs/2009.09226)
 
 ## Dataset
-- Yelp[link](https://www.yelp.com/dataset)
+- Yelp[[link]](https://www.yelp.com/dataset)
 ## Sequential / Session-Based Recommendation
 - BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer, CIKM 2019 ,  [[paper]](https://arxiv.org/abs/1904.06690)[[code]](https://github.com/FeiSun/BERT4Rec)
 - S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization
