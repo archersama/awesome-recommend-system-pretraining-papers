@@ -33,7 +33,7 @@ This is a paper list for pretrained recommend system (recommendation) models. It
 
 ## Language Models as Recommenddation Models (Prompt)
 - Language Models as Recommender Systems: Evaluations and Limitations , NeurIPS 2021 Workshop ICBINB , [[paper]](https://openreview.net/pdf?id=hFx3fY7-m9b)
-
+- Personalized Prompt Learning for Explainable Recommendation , arxiv 2022 , [[paper]](https://arxiv.org/abs/2202.07371)
 
 
 
