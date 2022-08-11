@@ -1,5 +1,5 @@
 # A Paper List for Recommend-system PreTrained Models
-This is a paper list for pretrained recommend system (recommendation) models. It also contains some related research areas.
+This is a paper list for pretrained recommend System (recommendation) models. It also contains some related research areas.
 
 **Keyword:** *Recommend System, pretrained models*
 
