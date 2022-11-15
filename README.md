@@ -30,6 +30,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 ## Two Tower Pretraining
 - Self-supervised Learning for Large-scale Item Recommendations , CIKM 2021 , [[paper]](https://dl.acm.org/doi/pdf/10.1145/3459637.3481952)
 - TransRec: Learning Transferable Recommendation from Mixture-of-Modality Feedback , arxiv 2022 , [[paper]](https://arxiv.org/abs/2206.06190)
+- IntTower: the Next Generation of Two-Tower Model for Pre-Ranking System, CIKM 2022 , [[paper]](https://arxiv.org/abs/2210.09890)[[code]](https://github.com/archersama/inttower)
 
 ## Language Models as Recommenddation Models (Prompt)
 - Language Models as Recommender Systems: Evaluations and Limitations , NeurIPS 2021 Workshop ICBINB , [[paper]](https://openreview.net/pdf?id=hFx3fY7-m9b)
