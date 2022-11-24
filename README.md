@@ -34,6 +34,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 
 ## Language Models as Recommenddation Models (Prompt)
 - Language Models as Recommender Systems: Evaluations and Limitations , NeurIPS 2021 Workshop ICBINB , [[paper]](https://openreview.net/pdf?id=hFx3fY7-m9b)
+- CTR-BERT: Cost-effective knowledge distillation for billion-parameter teacher models, [[paper]](https://neurips2021-nlp.github.io/papers/20/CameraReady/camera_ready_final.pdf)
 - Personalized Prompt Learning for Explainable Recommendation , Recsys 2022 , [[paper]](https://arxiv.org/abs/2202.07371)
 - M6-Rec: Generative Pretrained Language Models are Open-Ended Recommender Systems ,arxiv 2022 , [[paper]](https://arxiv.org/pdf/2205.08084.pdf)
 
