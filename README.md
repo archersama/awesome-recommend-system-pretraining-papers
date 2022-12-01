@@ -46,7 +46,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 ## Graph Pretraining
 - Curriculum Pre-Training Heterogeneous Subgraph Transformer for Top-N Recommendation , arxiv 2021 ,[[paper]](https://arxiv.org/abs/2106.06722)
 - Contrastive Pre-Training of GNNs on Heterogeneous Graphs , CIKM 2021 , [[paper]](https://yuanfulu.github.io/publication/CIKM-CPT.pdf)
-- Self-supervised Graph Learning for Recommendation , SIGIR 2021 , [[paper]](Self-supervised Graph Learning for Recommendation)
+- Self-supervised Graph Learning for Recommendation , SIGIR 2021 , [[paper]](https://arxiv.org/pdf/2010.10783.pdf)
 - Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation , AAAI 2021 , [[paper]](https://arxiv.org/pdf/2012.06852.pdf)
 # Workshop and Tutorial
 -
