@@ -7,7 +7,8 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 
 ## Review
 - Knowledge Transfer via Pre-training for Recommendation: A Review and Prospect, arXiv, 2020, [[paper]](https://arxiv.org/abs/2009.09226)
-
+- Self-Supervised Learning for Recommender Systems: A Survey ,arxiv 2022, [[paper]](https://arxiv.org/pdf/2203.15876.pdf)
+- Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems, arxiv 2022, [[paper]](https://arxiv.org/pdf/2203.15876.pdf,arxiv 2022)
 ## Dataset
 - Yelp[[link]](https://www.yelp.com/dataset)
 - Petdata[[link]](https://drive.google.com/file/d/1OcvbBJN0jlPTEjE0lvcDfXRkzOjepMXH/view)
@@ -23,6 +24,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 ## User Representation Pretraining 
 - Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation, SIGIR 2020 , [[paper]](https://arxiv.org/pdf/2001.04253.pdf), [[code]](https://github.com/fajieyuan/sigir2020_peterrec)
 - UPRec: User-Aware Pre-training for Recommender Systems ，submitted TKDE in 2021 , [[paper]](https://arxiv.org/abs/2102.10989)
+- U-BERT: Pre-training user representations for improved recommendation, AAAI 2021, [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16557)
 - UserBERT: Self-supervised User Representation Learning ,  arxiv 2021 , [[paper]](https://arxiv.org/abs/2109.01274)
 - One4all User Representation for Recommender Systems in E-commerce , arxiv 2021 , [[paper]](https://arxiv.org/abs/2106.00573)
 - One Person, One Model, One World: Learning Continual User Representation without Forgetting, SIGIR 2021 , [[paper]](https://arxiv.org/pdf/2001.04253.pdf)
