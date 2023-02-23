@@ -20,6 +20,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 - Transformers4Rec: Bridging the Gap between NLP and Sequential / Session-Based Recommendation, Recsys 2021
  , [[paper]](https://dl.acm.org/doi/abs/10.1145/3460231.3474255?casa_token=b4-oEoLXZycAAAAA:khQBoMBHAS5TXADNUar92RYFH4bq68KSjk3VvD5FDJzazv3jXXfcj_LHdnREjvfUgYj-4dipepKs)[[code]](https://github.com/NVIDIA-Merlin/Transformers4Rec)
  - Towards Universal Sequence Representation Learning for Recommender Systems , KDD 2022 , [[paper]](https://arxiv.org/pdf/2206.05941.pdf)[[code]](https://github.com/RUCAIBox/UniSRec)
+- Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders, WWW 2023, [[paper]](https://arxiv.org/abs/2210.12316) [[code]] (https://github.com/RUCAIBox/VQ-Rec)
 
 ## User Representation Pretraining 
 - Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation, SIGIR 2020 , [[paper]](https://arxiv.org/pdf/2001.04253.pdf), [[code]](https://github.com/fajieyuan/sigir2020_peterrec)
@@ -28,7 +29,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 - UserBERT: Self-supervised User Representation Learning ,  arxiv 2021 , [[paper]](https://arxiv.org/abs/2109.01274)
 - One4all User Representation for Recommender Systems in E-commerce , arxiv 2021 , [[paper]](https://arxiv.org/abs/2106.00573)
 - One Person, One Model, One World: Learning Continual User Representation without Forgetting, SIGIR 2021 , [[paper]](https://arxiv.org/pdf/2001.04253.pdf)
-- Scaling Law for Recommendation Models: Towards General-purpose User Representations , arxiv 2021 , [[paper]](https://arxiv.org/abs/2111.11294)
+- Scaling Law for Recommendation Models: Towards General-purpose User Representations , AAAI 2023 , [[paper]](https://arxiv.org/abs/2111.11294)
 
 ## Two Tower Pretraining
 - Self-supervised Learning for Large-scale Item Recommendations , CIKM 2021 , [[paper]](https://dl.acm.org/doi/pdf/10.1145/3459637.3481952)
