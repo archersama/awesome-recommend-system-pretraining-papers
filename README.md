@@ -3,6 +3,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 
 **Keyword:** *Recommend System, pretrained models*
 
+**Welcome to open an issue or make a pull request!**
 # Paper List
 
 ## Review
@@ -57,4 +58,3 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 
 # Copyright 
 By Xiangyang Li (xiangyangli@pku.edu.cn) from Peking University.  
-**Welcome to open an issue or make a pull request!**
