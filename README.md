@@ -44,6 +44,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 - M6-Rec: Generative Pretrained Language Models are Open-Ended Recommender Systems ,arxiv 2022 , [[paper]](https://arxiv.org/pdf/2205.08084.pdf)
 - PTab: Using the Pre-trained Language Model for Modeling Tabular Data, arxiv 2022, [[paper]](https://arxiv.org/abs/2209.08060)
 - Generative Recommendation: Towards Next-generation Recommender Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03879) 
+- Prompt Learning for News Recommendation, SIGIR 2023, [[paper]](https://arxiv.org/abs/2304.05263)
 
 
 
