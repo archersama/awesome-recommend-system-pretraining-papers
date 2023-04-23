@@ -46,6 +46,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 - Generative Recommendation: Towards Next-generation Recommender Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03879) 
 - Prompt Learning for News Recommendation, SIGIR 2023, [[paper]](https://arxiv.org/abs/2304.05263)
 - Is ChatGPT a Good Recommender? A Preliminary Study, arxiv 2023, [[paper]](https://arxiv.org/pdf/2304.10149.pdf)
+- Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent, arxiv 2023, [[paper]](https://arxiv.org/pdf/2304.09542.pdf)
 
 
 
