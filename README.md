@@ -48,6 +48,9 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 - Is ChatGPT a Good Recommender? A Preliminary Study, arxiv 2023, [[paper]](https://arxiv.org/pdf/2304.10149.pdf)
 - Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent, arxiv 2023, [[paper]](https://arxiv.org/pdf/2304.09542.pdf)
 - Uncovering ChatGPT’s Capabilities in Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/pdf/2305.02182.pdf)[[code]](https://github.com/rainym00d/LLM4RS)
+- Sparks of Artificial General Recommender (AGR): Early Experiments with ChatGPT, arxiv 2023, [[paper]](https://arxiv.org/pdf/2305.04518.pdf)
+- Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation, arxiv 2023,[[paper]](https://arxiv.org/pdf/2305.07609.pdf)
+[[code]](https://github.com/jizhi-zhang/FaiRLLM)
 
 
 
