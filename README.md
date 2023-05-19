@@ -52,8 +52,12 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 - Sparks of Artificial General Recommender (AGR): Early Experiments with ChatGPT, arxiv 2023, [[paper]](https://arxiv.org/pdf/2305.04518.pdf)
 - Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation, arxiv 2023,[[paper]](https://arxiv.org/pdf/2305.07609.pdf)
 [[code]](https://github.com/jizhi-zhang/FaiRLLM)
-
-
+- TALLRec: An Effective and Efficient Tuning Framework to Align Large  Language Model with Recommendation, arxiv 2023, [[paper]](http://arxiv.org/abs/2305.00447v1)
+- PALR: Personalization Aware LLMs for Recommendation, arxiv 2023, [[paper]](http://arxiv.org/abs/2305.07622v1)
+- Large Language Models are Zero-Shot Rankers for Recommender Systems, arxiv 2023, [[paper]](http://arxiv.org/abs/2305.08845v1)
+- Recommendation as Instruction Following: A Large Language Model  Empowered Recommendation Approach, arxiv 2023, [[paper]](http://arxiv.org/abs/2305.07001v1)
+- Leveraging Large Language Models in Conversational Recommender Systems, arxiv 2023, [[paper]](http://arxiv.org/abs/2305.07961v2)
+- Privacy-Preserving Recommender Systems with Synthetic Query Generation  using Differentially Private Large Language Models, arxiv 2023, [[paper]](http://arxiv.org/abs/2305.05973v1)
 
 
 
