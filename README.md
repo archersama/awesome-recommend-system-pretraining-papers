@@ -1,7 +1,7 @@
 # A Paper List for Recommend-system PreTrained Models
-This is a paper list for pretrained recommend System (recommendation) models. It also contains some related research areas.
+This is a paper list for pretrained recommend System (recommendation) models. It also contains some related research areas such as large language model.
 
-**Keyword:** *Recommend System, pretrained models*
+**Keyword:** *Recommend System, pretrained models, large language model*
 
 **Welcome to open an issue or make a pull request!**
 # Paper List
