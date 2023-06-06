@@ -16,6 +16,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 - M5Product: Self-harmonized Contrastive Learning for E-commercial Multi-modal Pretraining, CVPR 2022 [[paper]](https://arxiv.org/pdf/2109.04275.pdf)
 ## Empirical Study
 - Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited, SIGIR2023 [paper](https://arxiv.org/pdf/2303.13835.pdf)
+- Generative Recommendation: Towards Next-generation Recommender Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03879) 
 - Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights,arxiv, 2023 [paper](https://arxiv.org/pdf/2305.15036.pdf)
 ## Sequential / Session-Based Recommendation
 - BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer, CIKM 2019 ,  [[paper]](https://arxiv.org/abs/1904.06690)[[code]](https://github.com/FeiSun/BERT4Rec)
@@ -46,7 +47,6 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 - Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5) , Recsys 2022 , [[paper]](https://arxiv.org/abs/2203.13366))
 - M6-Rec: Generative Pretrained Language Models are Open-Ended Recommender Systems ,arxiv 2022 , [[paper]](https://arxiv.org/pdf/2205.08084.pdf)
 - PTab: Using the Pre-trained Language Model for Modeling Tabular Data, arxiv 2022, [[paper]](https://arxiv.org/abs/2209.08060)
-- Generative Recommendation: Towards Next-generation Recommender Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03879) 
 - Prompt Learning for News Recommendation, SIGIR 2023, [[paper]](https://arxiv.org/abs/2304.05263)
  ### Large Language Models for Recommendation
 - Is ChatGPT a Good Recommender A Preliminary Study, arxiv 2023, [[paper]](https://arxiv.org/pdf/2304.10149.pdf)
