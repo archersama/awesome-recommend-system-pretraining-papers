@@ -17,9 +17,9 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 - Petdata[[link]](https://drive.google.com/file/d/1OcvbBJN0jlPTEjE0lvcDfXRkzOjepMXH/view)
 - M5Product: Self-harmonized Contrastive Learning for E-commercial Multi-modal Pretraining, CVPR 2022 [[paper]](https://arxiv.org/pdf/2109.04275.pdf)
 ## Empirical Study
-- Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited, SIGIR2023 [paper](https://arxiv.org/pdf/2303.13835.pdf)
+- Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited, SIGIR 2023, [[paper]](https://arxiv.org/pdf/2303.13835.pdf)
 - Generative Recommendation: Towards Next-generation Recommender Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03879) 
-- Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights,arxiv, 2023 [paper](https://arxiv.org/pdf/2305.15036.pdf)
+- Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights,arxiv 2023, [[paper]](https://arxiv.org/pdf/2305.15036.pdf)
 ## Sequential / Session-Based Recommendation
 - BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer, CIKM 2019 ,  [[paper]](https://arxiv.org/abs/1904.06690)[[code]](https://github.com/FeiSun/BERT4Rec)
 - S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization
