@@ -10,6 +10,8 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 - Knowledge Transfer via Pre-training for Recommendation: A Review and Prospect, arXiv, 2020, [[paper]](https://arxiv.org/abs/2009.09226)
 - Self-Supervised Learning for Recommender Systems: A Survey ,arxiv 2022, [[paper]](https://arxiv.org/pdf/2203.15876.pdf)
 - Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems, arxiv 2022, [[paper]](https://arxiv.org/abs/2302.03735)
+- PALR: Personalization Aware LLMs for Recommendation, arxiv 2023, [[paper]](http://arxiv.org/abs/2305.07622v3)
+- How Can Recommender Systems Benefit from Large Language Models: A Survey, arxiv 2023, [[paper]](http://arxiv.org/abs/2306.05817v1)
 ## Dataset
 - Yelp[[link]](https://www.yelp.com/dataset)
 - Petdata[[link]](https://drive.google.com/file/d/1OcvbBJN0jlPTEjE0lvcDfXRkzOjepMXH/view)
