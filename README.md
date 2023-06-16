@@ -13,7 +13,6 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 - Knowledge Transfer via Pre-training for Recommendation: A Review and Prospect, arXiv, 2020, [[paper]](https://arxiv.org/abs/2009.09226)
 - Self-Supervised Learning for Recommender Systems: A Survey ,arxiv 2022, [[paper]](https://arxiv.org/pdf/2203.15876.pdf)
 - Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems, arxiv 2022, [[paper]](https://arxiv.org/abs/2302.03735)
-- PALR: Personalization Aware LLMs for Recommendation, arxiv 2023, [[paper]](http://arxiv.org/abs/2305.07622v3)
 - How Can Recommender Systems Benefit from Large Language Models: A Survey, arxiv 2023, [[paper]](http://arxiv.org/abs/2306.05817v1)
 ## Dataset
 - Yelp[[link]](https://www.yelp.com/dataset)
@@ -68,6 +67,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 - Leveraging Large Language Models in Conversational Recommender Systems, arxiv 2023, [[paper]](http://arxiv.org/abs/2305.07961v2)
 - Privacy-Preserving Recommender Systems with Synthetic Query Generation  using Differentially Private Large Language Models, arxiv 2023, [[paper]](http://arxiv.org/abs/2305.05973v1)
 - Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights, arxiv 2023, [[paper]](https://arxiv.org/pdf/2305.11700.pdf)
+- PALR: Personalization Aware LLMs for Recommendation, arxiv 2023, [[paper]](http://arxiv.org/abs/2305.07622v3)
 - CTRL: Connect Tabular and Language Model for CTR Prediction, arxiv 2023,[[paper]](https://arxiv.org/abs/2306.02841)
 
 
