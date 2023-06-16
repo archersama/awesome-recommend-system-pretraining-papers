@@ -67,7 +67,6 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 - Leveraging Large Language Models in Conversational Recommender Systems, arxiv 2023, [[paper]](http://arxiv.org/abs/2305.07961v2)
 - Privacy-Preserving Recommender Systems with Synthetic Query Generation  using Differentially Private Large Language Models, arxiv 2023, [[paper]](http://arxiv.org/abs/2305.05973v1)
 - Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights, arxiv 2023, [[paper]](https://arxiv.org/pdf/2305.11700.pdf)
-- PALR: Personalization Aware LLMs for Recommendation, arxiv 2023, [[paper]](http://arxiv.org/abs/2305.07622v3)
 - CTRL: Connect Tabular and Language Model for CTR Prediction, arxiv 2023,[[paper]](https://arxiv.org/abs/2306.02841)
 
 
