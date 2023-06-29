@@ -22,7 +22,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 ## Empirical Study
 - Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited, SIGIR 2023, [[paper]](https://arxiv.org/pdf/2303.13835.pdf)
 - Generative Recommendation: Towards Next-generation Recommender Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03879) 
-- Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights,arxiv 2023, [[paper]](https://arxiv.org/pdf/2305.15036.pdf)
+- Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights,arxiv 2023, [[paper]](https://arxiv.org/pdf/2305.15036.pdf) [[code]](https://github.com/westlake-repl/IDvs.MoRec)
 ## Sequential / Session-Based Recommendation
 - BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer, CIKM 2019 ,  [[paper]](https://arxiv.org/abs/1904.06690)[[code]](https://github.com/FeiSun/BERT4Rec)
 - S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization
