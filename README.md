@@ -80,5 +80,9 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 # Workshop and Tutorial
 -
 
+
+# Related hub
+ https://github.com/CHIANGEL/Awesome-LLM-for-RecSys
+
 # Copyright 
 By Xiangyang Li (xiangyangli@pku.edu.cn) from Peking University.  
