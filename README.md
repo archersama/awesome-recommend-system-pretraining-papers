@@ -79,7 +79,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 - Self-supervised Graph Learning for Recommendation , SIGIR 2021 , [[paper]](https://arxiv.org/pdf/2010.10783.pdf)
 - Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation , AAAI 2021 , [[paper]](https://arxiv.org/pdf/2012.06852.pdf)
 # Workshop and Tutorial
--
+- [[International Workshop on Deep Learning Practice for High-Dimensional Sparse Data with RecSyshttps]](https://dlp4rec.github.io/)
 
 
 # Related hub
