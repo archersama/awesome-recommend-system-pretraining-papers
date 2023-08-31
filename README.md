@@ -2,7 +2,7 @@
 
 <font size=6><center><big><b> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) </b></big></center></font>
 
-This is a paper list for pretrained recommend System (recommendation) models. It also contains some related research areas such as large language model.
+This is a paper list for pretrained recommend System (recommendation) models. It also contains some related research areas such as large language model for recommendation.
 
 **Keyword:** *Recommend System, pretrained models, large language model*
 
