@@ -87,3 +87,11 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 
 # Copyright 
 By Xiangyang Li (xiangyangli@pku.edu.cn) from Peking University.  
+@misc{rs-pretrain-papers,
+  author = {Xiangyang Li},
+  title = {awesome-recommend-system-pretraining-papers},
+  year = {2022},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/archersama/awesome-recommend-system-pretraining-papers/}}
+}
