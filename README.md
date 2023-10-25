@@ -19,7 +19,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 - Petdata[[link]](https://drive.google.com/file/d/1OcvbBJN0jlPTEjE0lvcDfXRkzOjepMXH/view)
 - M5Product: Self-harmonized Contrastive Learning for E-commercial Multi-modal Pretraining, CVPR 2022 [[paper]](https://arxiv.org/pdf/2109.04275.pdf)
 - Tenrec: A Large-scale Multipurpose Benchmark Dataset for Recommender Systems, NeurIPS 2022  [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/4ad4fc1528374422dd7a69dea9e72948-Paper-Datasets_and_Benchmarks.pdf)
-- PixelRec:  A Image Dataset for Benchmarking Recommender Systems with Raw Pixels [[link]](https://github.com/westlake-repl/PixelRec)   [[paper]](https://arxiv.org/abs/2309.06789)
+- PixelRec:  A Image Dataset for Benchmarking Recommender Systems with Raw Pixels [[link]](https://github.com/westlake-repl/PixelRec),arxiv 2023,[[paper]](https://arxiv.org/abs/2309.06789)
 ## Empirical Study
 - Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited, SIGIR 2023, [[paper]](https://arxiv.org/pdf/2303.13835.pdf)
 - Generative Recommendation: Towards Next-generation Recommender Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03879) 
@@ -32,6 +32,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
  , [[paper]](https://dl.acm.org/doi/abs/10.1145/3460231.3474255?casa_token=b4-oEoLXZycAAAAA:khQBoMBHAS5TXADNUar92RYFH4bq68KSjk3VvD5FDJzazv3jXXfcj_LHdnREjvfUgYj-4dipepKs)[[code]](https://github.com/NVIDIA-Merlin/Transformers4Rec)
  - Towards Universal Sequence Representation Learning for Recommender Systems , KDD 2022 , [[paper]](https://arxiv.org/pdf/2206.05941.pdf)[[code]](https://github.com/RUCAIBox/UniSRec)
 - Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders, WWW 2023, [[paper]](https://arxiv.org/abs/2210.12316) [[code]](https://github.com/RUCAIBox/VQ-Rec)
+- MISSRec: Pre-training and Transferring Multi-modal Interest-aware Sequence Representation for Recommendation, ACM MM 2023,[[paper]](https://arxiv.org/abs/2308.11175) [[code]](https://github.com/gimpong/MM23-MISSRec)
 
 ## User Representation Pretraining 
 - Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation, SIGIR 2020 , [[paper]](https://arxiv.org/pdf/2001.04253.pdf), [[code]](https://github.com/fajieyuan/sigir2020_peterrec)
