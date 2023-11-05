@@ -56,7 +56,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 - PTab: Using the Pre-trained Language Model for Modeling Tabular Data, arxiv 2022, [[paper]](https://arxiv.org/abs/2209.08060)
 - Prompt Learning for News Recommendation, SIGIR 2023, [[paper]](https://arxiv.org/abs/2304.05263)
  ### Large Language Models for Recommendation
-- LLMRec: Large Language Models with Graph Augmentation for Recommendation , WSDM 2024 , [[paper]](https://arxiv.org/pdf/2311.00423.pdf)
+- LLMRec: Large Language Models with Graph Augmentation for Recommendation , WSDM 2024 , [[paper]](https://arxiv.org/pdf/2311.00423.pdf), [[code]](https://github.com/HKUDS/LLMRec)
 - Is ChatGPT a Good Recommender A Preliminary Study, arxiv 2023, [[paper]](https://arxiv.org/pdf/2304.10149.pdf)
 - Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent, arxiv 2023, [[paper]](https://arxiv.org/pdf/2304.09542.pdf)
 - Uncovering ChatGPT’s Capabilities in Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/pdf/2305.02182.pdf)[[code]](https://github.com/rainym00d/LLM4RS)
