@@ -49,7 +49,6 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 - IntTower: the Next Generation of Two-Tower Model for Pre-Ranking System, CIKM 2022 , [[paper]](https://arxiv.org/abs/2210.09890)[[code]](https://github.com/archersama/inttower)
 
 ## Language Models as Recommenddation Models & Prompt Learning
-- LLMRec: Large Language Models with Graph Augmentation for Recommendation , WSDM 2024 , [[paper]](https://arxiv.org/pdf/2311.00423.pdf)
 - Language Models as Recommender Systems: Evaluations and Limitations , NeurIPS 2021 Workshop ICBINB , [[paper]](https://openreview.net/pdf?id=hFx3fY7-m9b)
 - CTR-BERT: Cost-effective knowledge distillation for billion-parameter teacher models,  [[paper]](https://neurips2021-nlp.github.io/papers/20/CameraReady/camera_ready_final.pdf)
 - Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5) , Recsys 2022 , [[paper]](https://arxiv.org/abs/2203.13366))
@@ -57,6 +56,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 - PTab: Using the Pre-trained Language Model for Modeling Tabular Data, arxiv 2022, [[paper]](https://arxiv.org/abs/2209.08060)
 - Prompt Learning for News Recommendation, SIGIR 2023, [[paper]](https://arxiv.org/abs/2304.05263)
  ### Large Language Models for Recommendation
+- LLMRec: Large Language Models with Graph Augmentation for Recommendation , WSDM 2024 , [[paper]](https://arxiv.org/pdf/2311.00423.pdf)
 - Is ChatGPT a Good Recommender A Preliminary Study, arxiv 2023, [[paper]](https://arxiv.org/pdf/2304.10149.pdf)
 - Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent, arxiv 2023, [[paper]](https://arxiv.org/pdf/2304.09542.pdf)
 - Uncovering ChatGPT’s Capabilities in Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/pdf/2305.02182.pdf)[[code]](https://github.com/rainym00d/LLM4RS)
