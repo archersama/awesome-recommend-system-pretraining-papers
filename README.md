@@ -20,6 +20,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 - M5Product: Self-harmonized Contrastive Learning for E-commercial Multi-modal Pretraining, CVPR 2022 [[paper]](https://arxiv.org/pdf/2109.04275.pdf)
 - Tenrec: A Large-scale Multipurpose Benchmark Dataset for Recommender Systems, NeurIPS 2022  [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/4ad4fc1528374422dd7a69dea9e72948-Paper-Datasets_and_Benchmarks.pdf)
 - PixelRec:  A Image Dataset for Benchmarking Recommender Systems with Raw Pixels [[link]](https://github.com/westlake-repl/PixelRec),arxiv 2023,[[paper]](https://arxiv.org/abs/2309.06789)
+- Netflix: [[link]](https://github.com/HKUDS/LLMRec)
 ## Empirical Study
 - Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited, SIGIR 2023, [[paper]](https://arxiv.org/pdf/2303.13835.pdf)
 - Generative Recommendation: Towards Next-generation Recommender Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03879) 
@@ -56,6 +57,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 - PTab: Using the Pre-trained Language Model for Modeling Tabular Data, arxiv 2022, [[paper]](https://arxiv.org/abs/2209.08060)
 - Prompt Learning for News Recommendation, SIGIR 2023, [[paper]](https://arxiv.org/abs/2304.05263)
  ### Large Language Models for Recommendation
+- LLMRec: Large Language Models with Graph Augmentation for Recommendation , WSDM 2024 , [[paper]](https://arxiv.org/pdf/2311.00423.pdf), [[code]](https://github.com/HKUDS/LLMRec), [[blog in Chinese]](https://mp.weixin.qq.com/s/aU-uzLWH6xfIuoon-Zq8Cg) 
 - Is ChatGPT a Good Recommender A Preliminary Study, arxiv 2023, [[paper]](https://arxiv.org/pdf/2304.10149.pdf)
 - Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent, arxiv 2023, [[paper]](https://arxiv.org/pdf/2304.09542.pdf)
 - Uncovering ChatGPT’s Capabilities in Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/pdf/2305.02182.pdf)[[code]](https://github.com/rainym00d/LLM4RS)
