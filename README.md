@@ -73,7 +73,8 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 - Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights, arxiv 2023, [[paper]](https://arxiv.org/pdf/2305.11700.pdf)
 - A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems,arxiv 2023, [[paper]](https://arxiv.org/abs/2308.08434)
 - CTRL: Connect Tabular and Language Model for CTR Prediction, arxiv 2023,[[paper]](https://arxiv.org/abs/2306.02841)
-
+- LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking, PGAI@CIKM 2023,[[paper]](https://arxiv.org/abs/2311.02089)
+[[code]](https://github.com/Yueeeeeeee/LlamaRec)
 
 
 
