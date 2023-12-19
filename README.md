@@ -75,6 +75,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 - CTRL: Connect Tabular and Language Model for CTR Prediction, arxiv 2023,[[paper]](https://arxiv.org/abs/2306.02841)
 - LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking, PGAI@CIKM 2023,[[paper]](https://arxiv.org/abs/2311.02089)
 [[code]](https://github.com/Yueeeeeeee/LlamaRec)
+- LLM4Vis: Explainable Visualization Recommendation using ChatGPT,EMNLP Industry 2023 | [paper](https://arxiv.org/abs/2310.07652) | [code](https://github.com/demoleiwang/LLM4Vis)
 
 
 
