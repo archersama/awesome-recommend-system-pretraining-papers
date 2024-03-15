@@ -24,10 +24,12 @@ Requirements:1. Graduated from Top School OR 2. At least one computer top confer
 - Tenrec: A Large-scale Multipurpose Benchmark Dataset for Recommender Systems, NeurIPS 2022  [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/4ad4fc1528374422dd7a69dea9e72948-Paper-Datasets_and_Benchmarks.pdf)
 - PixelRec:  A Image Dataset for Benchmarking Recommender Systems with Raw Pixels [[link]](https://github.com/westlake-repl/PixelRec),arxiv 2023,[[paper]](https://arxiv.org/abs/2309.06789)
 - Netflix: [[link]](https://github.com/HKUDS/LLMRec)
+- Ninerec: A benchmark dataset suite for evaluating transferable recommendation [[link]](https://github.com/westlake-repl/NineRec), arxiv 2023,[[paper]](https://arxiv.org/abs/2309.07705)
+- A Content-Driven Micro-Video Recommendation Dataset at Scale [[link]](https://github.com/westlake-repl/MicroLens), arxiv 2023,[[paper]](https://arxiv.org/abs/2309.15379)
 ## Empirical Study
-- Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited, SIGIR 2023, [[paper]](https://arxiv.org/pdf/2303.13835.pdf)
+- Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited, SIGIR 2023, [[paper]](https://arxiv.org/pdf/2303.13835.pdf) [[code]](https://github.com/westlake-repl/IDvs.MoRec)
 - Generative Recommendation: Towards Next-generation Recommender Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03879) 
-- Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights,arxiv 2023, [[paper]](https://arxiv.org/pdf/2305.15036.pdf) [[code]](https://github.com/westlake-repl/IDvs.MoRec)
+- Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights, WSDM 2024, [[paper]](https://arxiv.org/pdf/2305.15036.pdf) [[code]](https://github.com/westlake-repl/Adapter4Rec)
 ## Sequential / Session-Based Recommendation
 - BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer, CIKM 2019 ,  [[paper]](https://arxiv.org/abs/1904.06690)[[code]](https://github.com/FeiSun/BERT4Rec)
 - S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization
