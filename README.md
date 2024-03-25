@@ -31,6 +31,7 @@ Requirements:1. Graduated from Top School OR 2. At least one computer top confer
 - Generative Recommendation: Towards Next-generation Recommender Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03879) 
 - Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights, WSDM 2024, [[paper]](https://arxiv.org/pdf/2305.15036.pdf) [[code]](https://github.com/westlake-repl/Adapter4Rec)
 ## Sequential / Session-Based Recommendation
++ A Simple Convolutional Generative Network for Next Item Recommendation, WSDM 2018/08, [[paper]](https://arxiv.org/pdf/1808.05163.pdf)  [[code]](https://github.com/fajieyuan/WSDM2019-nextitnet)
 - BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer, CIKM 2019 ,  [[paper]](https://arxiv.org/abs/1904.06690)[[code]](https://github.com/FeiSun/BERT4Rec)
 - S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization
 , CIKM-2020 , [[paper]](https://arxiv.org/abs/2008.07873)[[code]](https://github.com/RUCAIBox/CIKM2020-S3Rec)
